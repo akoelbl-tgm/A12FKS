@@ -15,7 +15,7 @@ import javax.swing.JTextArea;
  * @version GUI für Verschlüsselung
  */
 
-
+//Haahdhd
 public class GUI {
 	
 	public JButton enShiftCipher;
